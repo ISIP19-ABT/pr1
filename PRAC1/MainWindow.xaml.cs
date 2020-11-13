@@ -20,15 +20,25 @@ namespace PRAC1
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        int i = 32; // Об переменную отчета цикла
+
         public MainWindow()
         {
             InitializeComponent();
         }
 
+
+
         private void Button_Click(object sender, RoutedEventArgs e) // здесь код по нажатию кнопки //
         {
+            for (int b = 0; b < 10; b++) // отчсте строк
+            {
+                for (int a = 0; a < 10; a++) // отсчет столбцов
+                {
 
-           
+                }
+            }
         }
     }
 }
