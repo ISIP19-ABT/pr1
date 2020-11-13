@@ -36,8 +36,12 @@ namespace PRAC1
             {
                 for (int a = 0; a < 10; a++) // отсчет столбцов
                 {
-
+                    Name.Text += Convert.ToString(i + "-" + (char)i + " ");
+                    i++;
+                    if (i == 128)
+                        break;
                 }
+                Name.Text += "\n";//Вывод таблицы ASCII
             }
         }
     }

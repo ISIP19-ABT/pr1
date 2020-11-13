@@ -1,0 +1,15 @@
+C:\TRPOpr\pr1\PRAC1\bin\Debug\PRAC1.exe.config
+C:\TRPOpr\pr1\PRAC1\bin\Debug\PRAC1.exe
+C:\TRPOpr\pr1\PRAC1\bin\Debug\PRAC1.pdb
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.csprojAssemblyReference.cache
+C:\TRPOpr\pr1\PRAC1\obj\Debug\MainWindow.g.cs
+C:\TRPOpr\pr1\PRAC1\obj\Debug\App.g.cs
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1_MarkupCompile.cache
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1_MarkupCompile.lref
+C:\TRPOpr\pr1\PRAC1\obj\Debug\MainWindow.baml
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.g.resources
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.Properties.Resources.resources
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.csproj.GenerateResource.cache
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.csproj.CoreCompileInputs.cache
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.exe
+C:\TRPOpr\pr1\PRAC1\obj\Debug\PRAC1.pdb
